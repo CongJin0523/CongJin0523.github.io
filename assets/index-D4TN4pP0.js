@@ -1,1 +1,0 @@
-import{O as n,I as s,H as a,aF as r,s as u,W as c,bm as l,aG as i}from"./index-C9cvMYIp.js";const _={style:{display:"flex","flex-direction":"column","justify-content":"center"}},m={__name:"index",setup(d){function e(){l(()=>i.push("/"))}return(p,t)=>{const o=r;return u(),n("div",_,[s(o,{onClick:e},{default:a(()=>t[0]||(t[0]=[c("Logout")])),_:1})])}}};export{m as default};
